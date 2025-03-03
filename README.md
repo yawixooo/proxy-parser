@@ -10,4 +10,5 @@ git clone https://github.com/yawixooo/proxy-parser.git
 cd proxy-parser
 ./parser
 ```
-
+# web parser:
+ https://vara-stress.xyz/
